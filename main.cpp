@@ -4,10 +4,10 @@
 using namespace std;
 
 
-const char symbol1 = 'X';     // player symbol option 1
-const char symbol2 = 'O';     // player symbol option 2
-const int boardSize = 3;      // dimensions of board
-const string file = "board.txt";
+const char symbol1 = 'X';        // player symbol option 1
+const char symbol2 = 'O';        // player symbol option 2
+const int boardSize = 3;         // dimensions of board
+const string file = "board.txt"; // file to store board after each turn
 
 
 /*
