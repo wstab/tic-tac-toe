@@ -8,7 +8,7 @@ This program is a tic-tac-toe console game.
 
 * Clone the repo
 ```
-git clone https://github.com/wstab/wstab-tic-tac-toe.git
+git clone https://github.com/wstab/tic-tac-toe.git
 ```
 
 ### Change Global Constants to configure to your needs
