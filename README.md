@@ -1,4 +1,4 @@
-# Internet Sim
+# Tic-Tac-Toe
 
 This program is a tic-tac-toe console game.
 
